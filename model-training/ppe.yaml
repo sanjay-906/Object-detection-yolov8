@@ -1,0 +1,15 @@
+path: /content/drive/MyDrive/ppe-detection
+train: train/images
+val: val/images
+
+nc: 9
+names:
+- hard-hat
+- gloves
+- mask
+- glasses
+- boots
+- vest
+- ppe-suit
+- ear-protector
+- safety-harness
